@@ -7,7 +7,7 @@
 
 **QRCraft Studio** is a professional-grade, local-first QR Code customization engine. Built with a "Studio Workspace" philosophy, it allows users to transform generic QR codes into bespoke brand assets with high-precision rendering, premium frames, and real-time readability analysis.
 
-[View Demo](#) | [Report Bug](https://github.com/yourusername/qrcraft-studio/issues)
+[View Demo](https://qr-craft-xi.vercel.app/) | [Report Bug](https://github.com/yourusername/qrcraft-studio/issues)
 
 ---
 
